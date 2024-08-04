@@ -6,3 +6,5 @@ Go to command line and run following command
 ## Detecting COVID-19 face masks with Open-CV in real time
 Go to command line and run following command
 - python detect_mask_video.py
+
+Co-Authors: Aman Bahal
